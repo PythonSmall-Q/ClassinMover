@@ -8,7 +8,7 @@ body:
     label: "检查项"
     description: "请逐个检查下列项目，并勾选确认。"
     options:
-    - label: "我已确认了启动器已为最新版，且最新版未实现这一功能。
+    - label: "我已确认了启动器已为最新版，且最新版未实现这一功能。"
       required: true
     - label: "我已在 [Issues 页面](https://github.com/PythonSmall-Q/ClassinMover/Issues) 中搜索，确认了这一提案未被提交过。"
       required: true
