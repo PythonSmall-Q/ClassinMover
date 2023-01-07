@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 提问
+    url: https://github.com/PythonSmall-Q/ClassinMover/discussions/new?category=%E6%8F%90%E9%97%AE
+    about: 我不想提交反馈，只是想问一些问题
