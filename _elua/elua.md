@@ -114,4 +114,4 @@
 
 3.在法律许可范围内，开发者享有对本协议条款的解释权；
 
-4.用户可以通过Github Issues方式投诉或发送邮件至：seanshan090108@gmail.com
+4.用户可以通过Github Issues方式投诉
