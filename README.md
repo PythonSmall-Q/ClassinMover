@@ -4,7 +4,7 @@ You can find the download in the branch: Version Release 你可以在Version Rel
 
 Download Link下载链接：https://github.com/PythonSmall-Q/ClassinMover/releases
 
-
+##About
 
 A program to move `ClassIn` classroom window in order to exit from focused learning mode.
 
