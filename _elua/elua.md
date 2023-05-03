@@ -114,4 +114,10 @@
 
 3.在法律许可范围内，开发者享有对本协议条款的解释权；
 
-4.用户可以通过Github Issues方式投诉
+4.提问方法
+  开Github Issues提问
+  中国用户请发邮件至chnsupport@seangithubproxy.eu.org （回复邮箱是yeah邮箱，请注意查收）
+  外国用户请发邮件至support@seangithubproxy.eu.org （回复邮箱是gmail邮箱，请注意查收）
+
+5.举报邮箱
+  admin@seangithubproxy.eu.org（回复邮箱是gmail邮箱，请注意查收）
