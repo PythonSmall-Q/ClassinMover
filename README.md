@@ -8,7 +8,7 @@ Download Link下载链接：https://github.com/PythonSmall-Q/ClassinMover/releas
 
 A program to move `ClassIn` classroom window in order to exit from focused learning mode.
 
-Supported `ClassIn` version: `3.0.2.130` to `3.0.5.1`, as well as `3.0.7.x`. (`ClassIn` prior to `3.0.2.130` does not have focused learning mode at all)
+Supported `ClassIn` version: `3.0.2.130` to `5.0.2.42`, as well as newer versions. (`ClassIn` prior to `3.0.2.130` does not have focused learning mode at all)
 
 Maybe the program will lose efficacy in the future versions.
 
