@@ -1,4 +1,4 @@
-> 更新时间 2023 年 1 月 18 日
+> 更新时间 2023 年 6 月 10 日
 
 欢迎使用PythonSmall-Q（以下简称“开发者”）提供的 Classin Mover（以下简称“本软件”）软件与服务。 为了保障用户（或称“您”）的权益，特制定本用户协议书（以下简称本协议）。 请您在使用本软件前，详细阅读本协议的所有内容。开发者可能随时更新本协议，本协议一旦发生变动，开发者将会在相关页面上通告修改内容。 修改后的本协议一旦在页面上公布即有效代替原用户协议书。
 
@@ -116,8 +116,8 @@
 
 4.提问方法
   开Github Issues提问
-  中国用户请发邮件至chnsupport@seangithubproxy.eu.org （回复邮箱是yeah邮箱，请注意查收）
-  外国用户请发邮件至support@seangithubproxy.eu.org （回复邮箱是gmail邮箱，请注意查收）
+  中国用户请发邮件至cn@seanoj.edu.eu.org （回复邮箱是yeah邮箱，请注意查收）
+  外国用户请发邮件至en@seanoj.edu.eu.org （回复邮箱是gmail邮箱，请注意查收）
 
 5.举报邮箱
-  admin@seangithubproxy.eu.org（回复邮箱是gmail邮箱，请注意查收）
+  admin@seanoj.edu.eu.org（回复邮箱是yeah邮箱，请注意查收）
