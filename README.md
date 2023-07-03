@@ -11,7 +11,7 @@ GitHub下载加速:
 1. githubdown1.eu.org
 2. githubdown2.eu.org
 3. ghdownproxy.eu.org
-  [为确保安全，部分地区登录网站时可能需要人机验证，点击灰色框即可]
+    [为确保安全，部分地区登录网站时可能需要人机验证，点击灰色框即可]
 
 ### Service Monitor服务监控
 
@@ -22,7 +22,9 @@ GitHub下载加速:
 
 For Chinese Users, cn@seanoj.edu.eu.org
 For English Users, en@seanoj.edu.eu.org
-#Contact Admin 侵权举报
+
+### Contact Admin 侵权举报
+
 admin@seanoj.edu.eu.org
 
 ### About
