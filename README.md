@@ -4,24 +4,6 @@ You can find the download in the branch: Version Release 你可以在Version Rel
 
 Download Link 下载链接：https://github.com/PythonSmall-Q/ClassinMover/releases
 ## Propoganda 广告
-开发者自制的一些加速器：
-GitHub镜像:
-seangithubproxy.eu.org
-GitHub下载加速:
-1. githubdown1.eu.org
-2. githubdown2.eu.org
-3. ghdownproxy.eu.org
-    [为确保安全，部分地区登录网站时可能需要人机验证，点击灰色框即可]
-
-### Service Monitor服务监控
-
-实时监控：githubproxy.eu.org
-问题发布：seanoj.edu.eu.org
-
-### FAQ Email 客服邮箱
-
-For Chinese Users, cn@seanoj.edu.eu.org
-For English Users, en@seanoj.edu.eu.org
 
 ### Contact Admin 侵权举报
 
